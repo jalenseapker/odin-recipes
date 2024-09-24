@@ -1,0 +1,1 @@
+This project is a simple index page showcasing recipes with a few links.
